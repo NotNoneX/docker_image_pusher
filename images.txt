@@ -11,4 +11,4 @@ dreamacro/clash-premium:latest
 headscale/headscale:0.22.3
 gdy666/lucky:2.10.9
 moelin/1panel:v1.10.12-lts
-nyanmisaka/jellyfin/tags:240401-amd64
+nyanmisaka/jellyfin:240401-amd64
